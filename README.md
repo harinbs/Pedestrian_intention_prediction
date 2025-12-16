@@ -32,8 +32,8 @@ The proposed method achieves strong performance on real-world pedestrian dataset
 
 | Task | Accuracy | Precision | Recall | F1-score |
 |-----|---------|-----------|--------|---------|
-| Action Prediction | 75.76% | 57.39% | 75.76% | 65.31% |
-| Crossing Intention | 52.53% | 27.59% | 52.53% | 36.18% |
+| Action Prediction | 83.22% | 82.27% | 83.22% | 82.34% |
+| Crossing Intention | 96.64% | 96.66% | 96.64% | 96.65% |
 
 Confusion matrices and ROC curves are available in the `results/` directory.
 
