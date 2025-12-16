@@ -24,7 +24,7 @@ The model consists of:
   - Crossing intention prediction (crossing / not crossing)
 
 <p align="center">
-  <img src="figures/framework.png" width="700">
+  <img src="figures/framework.jpg" width="700">
 </p>
 
 ## 📊 Results
